@@ -1,0 +1,7 @@
+{
+    "name": "repro/reverseregex-unbounded",
+    "description": "Minimal reproducible test case for the reverse-regex unbounded quantifier issue",
+    "require": {
+        "ilario-pierbattista/reverse-regex": "0.5.0"
+    }
+}
